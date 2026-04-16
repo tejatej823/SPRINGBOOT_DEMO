@@ -1,4 +1,4 @@
-package com.example.TEST_API;
+package com.example.REST_API;
 
 public class User {
     private int id;

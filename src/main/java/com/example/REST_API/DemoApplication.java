@@ -1,4 +1,4 @@
-package com.example.TEST_API;
+package com.example.REST_API;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
